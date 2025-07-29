@@ -1,4 +1,4 @@
-# Automatic Speech Translation (Tamil-Sinhala)
+# Automatic Speech Recognition (Tamil-Sinhala)
 
 A comprehensive research project focused on building robust Automatic Speech Recognition (ASR) systems for Tamil language using OpenAI's Whisper model, with particular emphasis on noise-robust speech recognition.
 
